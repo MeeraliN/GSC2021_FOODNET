@@ -11,6 +11,6 @@ This Project is created during GSC2021 to solve United Nations' Sustainable Deve
  Language used = Kotlin
  
  <br>
-Use this link - <href a = "https://drive.google.com/folderview?id=1NPRdGfBmCdTooOthVQ_3G7z5qbLyLYGU"> Download from here</href>
+Use this link - <a href="https://drive.google.com/folderview?id=1NPRdGfBmCdTooOthVQ_3G7z5qbLyLYGU"> Download from here</a>
 <br>
 After downloading the file from the drive folder, unzip/extract it and open android studio to run it.
